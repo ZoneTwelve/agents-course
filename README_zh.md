@@ -10,10 +10,8 @@
 本課程會分為五個階段。這五個階段會引領你從 **agents 的基本到最終作業的排行榜。**
 
 現在就註冊 (免費) 👉 <a href="https://bit.ly/hf-learn-agents" target="_blank">https://bit.ly/hf-learn-agents</a>
-Sign up here (it's free) 👉 <a href="https://bit.ly/hf-learn-agents" target="_blank">https://bit.ly/hf-learn-agents</a>
 
 你也可以直接在這裡查看課程 👉 <a href="https://hf.co/learn/agents-course" target="_blank">https://hf.co/learn/agents-course</a>
-You can access the course here 👉 <a href="https://hf.co/learn/agents-course" target="_blank">https://hf.co/learn/agents-course</a>
 
 | 單元 | 主題                          | 說明                                                                 |
 |------|--------------------------------|-----------------------------------------------------------------------------|
